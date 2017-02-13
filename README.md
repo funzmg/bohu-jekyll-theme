@@ -23,7 +23,7 @@ In the BoHu, you can share knowledge to all over the world!
 # Author
 
 [Clark Zhao](http://zhaoyuxiang.cn)
-
+[Clark zhang]
 
 # License
 
