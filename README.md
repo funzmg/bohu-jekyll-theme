@@ -1,11 +1,13 @@
 # BoHu 
 
 It's a simple jekyll blog theme. 
-  
-A style of ZhiHu - the best-known website to share knowledge in China.   
+这是一个简单的jekyll博客主题
+  
+A style of ZhiHu - the best-known website to share knowledge in China.   
 
-In the ZhiHu, you can learn knowledge from all over the world.   
 
+一个类似于知乎的主题   
+In the ZhiHu, you can learn knowledge from all over the world.  
 In the BoHu, you can share knowledge to all over the world!
 
 1. **Use paging as 1,2,3,4,5......**   
